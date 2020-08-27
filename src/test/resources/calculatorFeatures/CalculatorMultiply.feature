@@ -7,5 +7,5 @@ Feature: Calculator Multiply
 
     Examples:
       |  a | b |  c |
-      | 12 | 5 | 10 |
+      | 12 | 5 | 60 |
       | 20 | 5 | 100 |

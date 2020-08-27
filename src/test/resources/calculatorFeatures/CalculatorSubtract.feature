@@ -18,5 +18,5 @@ Feature: Calculator Subtract
 
     Examples:
       |  a | b |  c |
-      | 30 | 20 | 20 |
+      | 30 | 20 | 10 |
       | 40 | 35 | 5 |
